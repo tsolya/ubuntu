@@ -1,0 +1,73 @@
+body{
+    background-color:#f9f9f9;
+    color:#4f4f4f;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+#keret{
+    width:1125px;
+    border: solid 1px #e0e0e0;
+    margin:auto;
+    display:block;
+    padding:0px;
+}
+#fejlec{
+    width:1125px;
+    height: 300px;
+    padding: 0px;
+    margin:0px;
+    background:url(omg.png);
+}
+#lablec{
+    clear:both;
+    color:#808080;
+    width:1085px;
+    padding:20px;
+    margin:0px;
+    background-color: #efefef;
+    text-align: center;
+}
+#torzs{
+    width: 1125px;
+    padding:0px;
+    margin:0px;
+
+}
+#cikk{
+    float:left;
+    width:720px;
+    padding: 20px;
+    margin:0px;
+    background-color: white;
+}
+#kommentek{
+    float:right;
+    width:300px;
+    height:1300px;
+    margin:0px;
+    padding:20px;
+    background-color: #efefef;  
+}
+h1{
+    color:#333333;
+    font-size: 32px;
+
+}
+h2{
+    color:#f15d22;
+    font-size: 24px;
+}
+img{
+    width:500px;
+    margin:auto;
+    display:block;
+
+}
+a{
+    font-style:bold;
+    color:#f15d22;
+
+}
+a:hover{
+    color: #a0a0a0;
+}
